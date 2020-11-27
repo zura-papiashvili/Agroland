@@ -1,0 +1,301 @@
+Scientific Name,Adapted to Coarse Textured Soils,Adapted to Medium Textured Soils,Adapted to Fine Textured Soils,Anaerobic Tolerance,CaCO<SUB>3</SUB> Tolerance,Cold Stratification Required,Drought Tolerance,Fertility Requirement,Fire Tolerance,"Frost Free Days, Minimum",Hedge Tolerance,Moisture Use,pH (Minimum),pH (Maximum),"Planting Density per Acre, Minimum","Planting Density per Acre, Maximum",Precipitation (Minimum),Precipitation (Maximum),"Root Depth, Minimum (inches)",Salinity Tolerance,Shade Tolerance,"Temperature, Minimum (°F)"
+whitethorn acacia,Yes,Yes,No,None,High,No,High,Low,High,250,High,Low,7,8.5,300,700,4,20,12,Medium,Intolerant,-13
+catclaw acacia,Yes,Yes,Yes,None,High,No,High,Low,High,250,High,Low,6.5,8.5,300,700,3,20,12,None,Intolerant,-13
+koaoha,Yes,Yes,No,None,Medium,No,Low,Medium,Low,365,Low,,4,7.4,320,640,33,200,36,None,Intolerant,25
+bigleaf maple,Yes,Yes,Yes,Medium,Low,Yes,Low,Medium,High,140,None,Medium,4.8,7.2,300,700,22,260,24,None,Intermediate,-14
+boxelder,Yes,Yes,Yes,Medium,High,Yes,High,Medium,Low,100,None,Medium,5,7.8,300,1200,15,75,40,Medium,Tolerant,-46
+black maple,Yes,Yes,Yes,Low,Medium,Yes,Medium,Medium,Low,130,None,Medium,4.5,7.3,300,700,24,60,30,None,Tolerant,-47
+red maple,Yes,Yes,Yes,Medium,High,No,Medium,Medium,Low,80,Low,High,4.7,7.3,170,1200,25,80,30,None,Intermediate,-47
+silver maple,Yes,Yes,Yes,High,Medium,No,Low,Low,Low,120,None,Medium,4,7.3,170,700,20,70,32,Low,Intermediate,-47
+sugar maple,Yes,Yes,No,None,Medium,Yes,Medium,Medium,Low,80,None,Medium,3.7,7.9,300,700,22,80,40,None,Tolerant,-47
+California buckeye,Yes,Yes,No,None,Low,No,High,Low,Medium,175,None,Medium,5.5,7.5,300,700,40,75,36,None,Intermediate,2
+tapertip onion,Yes,Yes,No,None,High,Yes,Medium,Low,High,120,High,Low,6,8,4800,11000,10,60,6,None,Intolerant,-28
+Douglas' onion,Yes,Yes,Yes,Low,Medium,No,Medium,Low,High,100,None,Medium,6,7.8,4800,11000,8,16,8,None,Intolerant,-28
+textile onion,Yes,Yes,Yes,None,Medium,No,High,Low,High,120,None,Medium,6,8,4800,11000,10,30,8,Low,Intermediate,-38
+Tolmie's onion,Yes,Yes,Yes,None,Medium,No,High,Low,High,120,None,Medium,6,8,4800,11000,8,16,8,Low,Intolerant,-33
+Pacific onion,No,Yes,Yes,High,Medium,No,Low,Medium,High,130,None,High,6.2,8,4800,11000,12,40,8,None,Intermediate,-18
+Saskatoon serviceberry,Yes,Yes,Yes,None,High,Yes,Low,Medium,High,100,High,Medium,4.8,8.4,700,1700,12,140,24,Low,Intermediate,-62
+common serviceberry,Yes,Yes,No,Medium,None,Yes,Low,Medium,Medium,120,Low,Medium,4.8,7.5,700,1700,26,80,20,Low,Tolerant,-47
+Canadian serviceberry,Yes,Yes,Yes,Medium,High,Yes,Low,Medium,High,110,High,Medium,5.5,7.5,700,1800,30,60,20,Medium,Intermediate,-33
+Utah serviceberry,Yes,Yes,Yes,None,High,No,High,Low,High,110,High,Medium,5.6,8.4,700,1700,12,45,24,None,Intermediate,-28
+Utah serviceberry,Yes,Yes,No,Low,High,No,High,Low,High,145,Medium,Medium,5.8,7.4,1200,3450,12,60,12,None,Intolerant,-23
+sea torchwood,Yes,Yes,No,Medium,Medium,No,High,Low,,365,Low,Low,6,8.5,320,640,30,80,36,High,Tolerant,15
+Thurber's desert honeysuckle,No,Yes,No,None,Medium,No,High,Low,Low,210,Medium,Low,6.4,8.4,1200,1700,8,14,18,Low,Intolerant,-3
+pond apple,No,No,No,High,,No,Medium,,,365,,,6.1,7.8,320,1280,30,70,24,Low,Tolerant,18
+custard apple,Yes,No,No,Low,Medium,No,Medium,Medium,Medium,365,Low,,,,320,640,32,98,36,,Intolerant,40
+sugar apple,Yes,Yes,No,Low,Medium,No,High,Low,,365,Low,,,,320,640,32,98,24,Low,Intolerant,27
+groundnut,Yes,Yes,Yes,High,High,No,Low,Medium,Low,140,None,Medium,6,7.5,2700,10000,28,55,8,None,Tolerant,-23
+alpine bearberry,Yes,No,No,None,Low,Yes,None,Medium,Medium,120,Low,,4.5,7.7,640,2560,12,197,12,,Intermediate,-62
+Tilesius' wormwood,Yes,No,No,None,Low,Yes,Low,Medium,None,120,Medium,Medium,5,7.5,320,1280,10,32,12,None,Tolerant,-62
+pawpaw,Yes,Yes,No,Low,Medium,Yes,Low,High,Medium,160,Low,Medium,4.7,7.2,3400,4800,36,80,20,None,Tolerant,-27
+common oat,Yes,Yes,Yes,Low,Low,No,Low,Medium,None,90,None,Medium,5.3,8.5,,,25,100,8,Medium,Intolerant,-23
+Carey's balsamroot,Yes,Yes,No,None,Medium,Yes,High,Low,Medium,130,None,Low,6.6,9,,,6,20,18,Medium,Intermediate,-13
+Hooker's balsamroot,Yes,Yes,Yes,None,Medium,Yes,Medium,Low,Medium,120,None,Medium,6.6,9,,,9,20,18,Medium,Intermediate,-18
+hairy balsamroot,Yes,Yes,Yes,None,Medium,Yes,Medium,Low,Medium,110,None,Medium,6.6,9,,,9,20,18,Medium,Intermediate,-18
+cutleaf balsamroot,Yes,Yes,Yes,Low,Medium,Yes,Low,Medium,Medium,100,None,High,6.3,8.6,,,14,40,18,Low,Intermediate,-23
+yellow birch,Yes,Yes,Yes,Low,Low,Yes,Medium,Medium,Low,60,Medium,Medium,4,8,300,700,25,80,30,Medium,Intermediate,-47
+paper birch,Yes,Yes,Yes,Low,Low,Yes,Low,Medium,High,80,Low,High,4.2,7.4,300,700,12,60,24,Medium,Intolerant,-62
+brown mustard,No,Yes,Yes,None,None,No,Low,Medium,None,130,None,Medium,6,7.2,,,30,80,6,None,Intolerant,17
+rape,No,Yes,Yes,None,None,No,Low,Medium,None,130,None,Medium,6,7.2,,,40,80,6,None,Intolerant,17
+field mustard,Yes,Yes,Yes,None,High,No,Low,High,Low,125,None,High,5,8,,,35,55,12,Medium,Intermediate,-13
+pinguin,Yes,Yes,Yes,None,Medium,No,Medium,Medium,None,360,None,Low,4.5,6.5,640,2560,33,79,12,Low,Tolerant,28
+bird-of-paradise shrub,Yes,Yes,No,None,High,No,High,Low,None,320,None,Low,7,8.5,700,2700,2,10,12,Low,Intolerant,27
+pigeonpea,Yes,Yes,Yes,Low,High,No,High,Medium,Medium,365,Medium,Low,5,8.3,400,1600,25,150,16,Medium,Intermediate,31
+purple poppymallow,Yes,Yes,No,None,Medium,No,Medium,Medium,Low,95,None,Medium,5.5,7.5,4800,11000,10,36,12,Low,Intolerant,-38
+white marsh marigold,Yes,Yes,No,Medium,Medium,No,None,Medium,Medium,80,None,High,6.6,8.2,,,16,40,8,None,Intolerant,-33
+small camas,Yes,Yes,Yes,Medium,Low,Yes,None,Medium,Medium,110,None,High,5.7,7,2700,4800,16,55,10,None,Tolerant,-28
+Atlantic camas,No,Yes,Yes,Low,Medium,Yes,Low,Medium,Medium,100,None,Medium,4.2,6.5,2700,4800,30,55,10,None,Tolerant,-28
+wild cinnamon,Yes,No,Yes,,Medium,No,,Medium,,365,Low,,,,320,640,,,36,Medium,,40
+Lyngbye's sedge,No,No,No,High,,Yes,Low,High,None,120,None,,5,6,5120,20000,7,140,12,Medium,Intolerant,-52
+saguaro,,,,,,,,,,,,,,,,,,,,,,
+,Yes,Yes,Yes,None,High,No,High,Low,Low,240,Low,Low,7,9,1700,1700,2,10,10,Low,Intolerant,15
+bitternut hickory,Yes,Yes,Yes,Low,High,Yes,High,Medium,Medium,120,None,Medium,4.8,7.4,170,700,25,70,50,None,Intolerant,-47
+pignut hickory,Yes,Yes,No,None,High,Yes,High,Medium,Medium,140,None,Medium,4.8,7.3,170,700,30,80,50,None,Intermediate,-30
+pecan,Yes,Yes,Yes,None,Low,Yes,Low,High,Low,180,Low,High,4.5,7.5,300,700,28,79,32,None,Intolerant,-21
+shellbark hickory,Yes,Yes,No,Low,High,Yes,Low,High,Medium,150,None,High,5,6.6,170,700,30,60,60,None,Tolerant,-22
+nutmeg hickory,No,Yes,Yes,Low,Low,Yes,Low,Medium,Low,240,None,Medium,4.7,6.5,300,700,40,60,48,None,Intolerant,-10
+shagbark hickory,Yes,Yes,Yes,None,Medium,Yes,Medium,Medium,Medium,140,None,Medium,4,7.3,300,700,29,80,48,Low,Intermediate,-40
+mockernut hickory,,,,,,,,,,,,,,,,,,,,,,
+,Yes,Yes,Yes,None,High,No,Medium,Medium,Medium,160,None,Medium,4.7,6.9,170,700,32,80,50,None,Intermediate,-33
+American chestnut,No,Yes,No,None,None,Yes,Medium,Medium,None,150,None,Medium,5.5,6.5,170,300,35,60,20,None,Intolerant,-33
+Chinese chestnut,Yes,Yes,No,None,Medium,Yes,Low,Medium,Low,180,None,Medium,5,7.5,170,300,35,50,36,None,Intolerant,-20
+chinquapin,Yes,Yes,No,None,Low,Yes,High,Low,High,150,Low,Low,4.5,6.6,300,1200,40,80,20,None,Intermediate,-20
+blue cohosh,No,Yes,No,Low,Low,Yes,Low,High,Low,120,None,Medium,4.5,7,4800,11000,35,60,16,None,Tolerant,-33
+New Jersey tea,Yes,Yes,No,None,Medium,Yes,High,Low,Medium,120,Low,Low,4.3,6.5,2700,4800,25,60,14,None,Tolerant,-28
+spiny hackberry,,,,,,,,,,,,,,,,,,,,,,
+,Yes,Yes,No,None,High,Yes,High,Low,High,160,High,Low,7,8.5,700,1700,5,15,12,Low,Intolerant,-3
+netleaf hackberry,Yes,Yes,No,None,High,Yes,High,Low,Medium,150,High,Low,5.9,8.3,50,100,7,55,12,Low,Intolerant,-42
+eastern redbud,No,Yes,Yes,None,Low,Yes,High,Low,Medium,170,None,Low,5,7.9,300,1200,20,80,24,None,Tolerant,-28
+Texas redbud,No,Yes,Yes,None,Low,Yes,High,Low,Medium,180,Low,Low,6,8,100,1200,16,80,20,Low,Tolerant,-8
+giant chinquapin,Yes,Yes,No,None,Low,No,High,Low,High,102,Low,Medium,4.8,7.3,300,700,34,130,48,None,Tolerant,-34
+bush chinquapin,Yes,Yes,No,None,Low,Yes,Medium,Low,Medium,160,Low,Low,5,7,300,700,35,80,20,None,Tolerant,-8
+Chamisso's manfern,No,No,Yes,Low,Medium,No,Low,Medium,Medium,365,None,Medium,6.5,7.5,320,1280,30,90,12,Low,Intermediate,40
+hapu'u,No,No,Yes,Low,Medium,No,Low,Medium,Medium,365,None,Medium,6.5,7.5,320,1280,30,90,12,None,Intermediate,40
+chicory,Yes,Yes,Yes,Low,High,No,Medium,High,Medium,90,None,High,6,7.5,,,20,60,8,None,Intolerant,-43
+miner's lettuce,Yes,Yes,No,Low,Low,No,None,Medium,None,40,None,Medium,6,7,,,14,36,6,None,Tolerant,52
+Siberian springbeauty,No,Yes,Yes,Low,Low,No,None,Medium,None,80,None,Medium,6,7,3450,7000,14,24,8,None,Tolerant,-43
+tietongue,Yes,Yes,Yes,Medium,Medium,No,High,Medium,,365,Low,,,,320,640,,,36,Medium,Tolerant,40
+grandleaf seagrape,Yes,Yes,No,Low,Medium,No,High,Medium,Medium,365,Low,,,,320,640,,,36,High,Tolerant,40
+seagrape,Yes,Yes,Yes,None,Medium,No,High,Low,None,365,Medium,Low,5,8,300,700,20,60,60,High,Intermediate,17
+coconut palm,Yes,Yes,Yes,Medium,Medium,No,Medium,Low,None,365,None,Low,4,8,150,300,20,80,60,High,Intolerant,18
+Spanish elm,Yes,Yes,Yes,None,Low,No,Low,Low,Medium,365,None,High,4.5,7.5,170,300,30,200,28,None,Intolerant,50
+tiplant,Yes,Yes,Yes,Low,Medium,No,Medium,Medium,Medium,365,Medium,Medium,5.5,7.7,600,5000,40,200,18,Medium,Intermediate,35
+Cornelian cherry,Yes,Yes,Yes,None,Medium,Yes,Low,Medium,,160,Medium,Medium,5,7.5,300,1200,30,50,30,None,Intermediate,-27
+beaked hazelnut,No,Yes,No,None,Medium,Yes,Medium,Medium,High,90,Medium,Medium,4.8,7.5,700,1700,20,80,16,None,Tolerant,-47
+California hazelnut,Yes,Yes,No,Low,Low,Yes,Low,Low,High,130,Low,Medium,4.8,7.5,700,1700,14,100,18,None,Tolerant,-28
+Arnold hawthorn,Yes,Yes,Yes,None,Medium,Yes,Medium,Medium,Low,90,Medium,Medium,5.7,7.6,1200,1700,24,36,24,None,Intolerant,-43
+black hawthorn,Yes,Yes,Yes,Medium,Low,Yes,Low,Low,High,120,High,High,4.8,7.5,200,1000,16,260,12,None,Intermediate,-47
+cerro hawthorn,Yes,Yes,No,Low,Medium,Yes,Low,Low,Medium,89,Low,Low,3,8,600,2400,16,33,24,Medium,Intolerant,-50
+parsley hawthorn,No,Yes,Yes,High,Low,Yes,Low,Medium,Low,240,Low,Medium,5.8,7.2,300,700,34,60,18,None,Tolerant,-3
+green hawthorn,No,Yes,Yes,Medium,Medium,Yes,Low,Medium,Low,180,Low,High,4.3,7.3,300,700,36,60,18,None,Intolerant,-24
+Missouri gourd,Yes,Yes,Yes,None,High,No,High,Low,High,160,High,Low,7,8.8,1200,1200,5,41,12,Low,Intolerant,-20
+wild ackee,Yes,Yes,No,Low,Medium,No,Low,Medium,,365,Low,,6,8.5,320,640,40,160,36,,,40
+quince,Yes,Yes,No,None,Low,No,Low,Low,Low,120,,Medium,5,6.5,500,1500,24,60,30,None,Intolerant,-23
+common sotol,Yes,Yes,No,None,Medium,No,High,Low,Low,300,None,Low,6.6,9,1200,2700,6,14,24,Low,Intolerant,27
+threeflower ticktrefoil,Yes,No,No,None,,No,High,Medium,None,294,High,,5,6,5120,20000,17,70,12,None,Intermediate,16
+common persimmon,Yes,Yes,Yes,None,None,Yes,Medium,Medium,Medium,200,None,Medium,4.7,7.5,300,700,30,80,36,Low,Tolerant,-21
+Russian olive,Yes,Yes,No,Low,High,Yes,High,Medium,Low,120,High,High,6,9,300,1200,12,40,20,High,Intolerant,-25
+silverberry,Yes,Yes,No,None,High,Yes,High,Low,Medium,100,Medium,Low,5,7.9,1200,1700,16,45,18,Medium,Intolerant,-38
+autumn olive,Yes,Yes,Yes,None,Medium,Yes,High,Low,Low,150,Medium,Medium,5,7.5,700,2700,28,45,18,None,Intolerant,-23
+Nevada jointfir,Yes,Yes,No,None,High,No,None,Low,None,150,High,Low,7,8.5,1200,2700,7,15,6,Medium,Intolerant,-13
+Torrey's jointfir,Yes,Yes,No,None,Medium,Yes,High,Low,Medium,120,None,Low,6.5,9.5,1200,2700,8,14,24,High,Intolerant,-28
+longleaf jointfir,Yes,Yes,No,None,High,No,None,Low,None,250,High,Low,7.5,9.5,1200,2700,5,11,6,High,Intolerant,-13
+glaucus willowherb,No,Yes,Yes,None,Medium,No,Low,Low,High,200,None,Medium,6.1,7.5,,,12,20,8,None,Tolerant,-8
+Caribgrass,No,No,No,Medium,,No,Medium,Medium,,311,None,,5,6.5,5120,20000,48,100,12,,Intolerant,18
+Tartary buckwheat,Yes,Yes,No,None,Low,No,High,Low,None,155,None,Low,4.6,6.5,,,35,55,8,None,Intolerant,42
+American beech,Yes,Yes,No,Low,Low,Yes,High,Low,Medium,92,None,Medium,4.1,7.2,300,800,28,80,32,None,Tolerant,-44
+beechleaf frangula,No,Yes,No,,Medium,No,,,,168,,,6,8,,,12,33,,None,Tolerant,-15
+Oregon bedstraw,No,Yes,Yes,Medium,None,Yes,None,Medium,Medium,140,High,Low,6,7.5,,,8,14,6,None,Tolerant,-13
+creeping snowberry,Yes,Yes,Yes,Medium,Low,Yes,Medium,Medium,High,110,None,Medium,4,6.5,2700,4800,30,60,12,None,Tolerant,-28
+eastern teaberry,Yes,Yes,No,None,Low,Yes,High,Low,High,120,None,Low,4,6.5,2700,4800,32,60,12,None,Tolerant,-33
+salal,Yes,Yes,Yes,Low,None,Yes,Low,Medium,High,200,High,High,5.5,7,700,11000,55,125,12,None,Tolerant,7
+black huckleberry,Yes,Yes,Yes,Low,Low,No,Medium,Low,High,100,Low,Low,4.5,6.5,1200,4800,28,60,14,None,Tolerant,-33
+dwarf huckleberry,Yes,Yes,Yes,Low,Low,Yes,Medium,Low,High,180,None,Low,4.3,6.5,1200,4800,28,60,14,None,Tolerant,-23
+blue huckleberry,Yes,No,No,None,None,Yes,High,Low,High,155,Medium,Low,3.8,5.5,1100,2700,32,60,18,None,Tolerant,-23
+woolly geranium,No,No,No,None,,No,None,Medium,None,120,None,,4,7.5,5120,20000,20,276,12,None,Intolerant,-20
+Ross' avens,Yes,Yes,No,None,,Yes,High,Low,Low,80,Medium,Low,4.5,5.6,2700,4800,10,19,3,None,Intermediate,26
+old man's whiskers,No,Yes,No,None,High,No,High,Medium,Medium,100,None,Medium,6,7.5,2700,4800,16,40,6,None,Intermediate,-38
+soybean,Yes,Yes,Yes,Low,Low,No,Medium,Low,None,140,None,Medium,5.5,7.8,,,16,59,8,Medium,Intolerant,-28
+American muskwood,Yes,No,No,,,No,,Medium,Medium,365,Low,,6,8,320,640,,,24,,,40
+wildcane,No,No,No,High,,No,Medium,Medium,,365,None,High,6,8.5,5120,20000,43,134,12,,Intermediate,40
+two-wing silverbell,No,Yes,Yes,Medium,Low,No,Low,Low,,247,Low,,6,8,320,640,33,68,36,None,Intermediate,10
+American witchhazel,No,Yes,Yes,Low,Low,Yes,Low,Medium,High,120,Low,Medium,4.5,6.2,1200,2700,30,60,20,None,Intermediate,-28
+alpine sweetvetch,Yes,Yes,No,Low,Low,Yes,Low,Low,Medium,120,High,Medium,6,8,5120,20000,28,80,12,None,Intolerant,-62
+common sunflower,Yes,Yes,Yes,Low,Medium,No,Medium,Low,None,80,None,Medium,5.5,7.8,4800,11000,12,60,8,Medium,Intolerant,52
+sawtooth sunflower,Yes,Yes,Yes,None,Medium,Yes,Medium,Medium,Medium,90,None,Medium,5.8,7.3,11000,18000,20,40,12,None,Intolerant,-43
+Jerusalem artichoke,Yes,Yes,No,None,Medium,No,High,Medium,Medium,100,None,Low,4,7,4800,10912,15,55,6,Low,Intermediate,-43
+common cowparsnip,Yes,Yes,Yes,Medium,Medium,No,Low,Medium,High,110,None,High,5.4,7.3,,,14,45,12,None,Intolerant,-38
+comfortroot,No,Yes,Yes,High,High,No,Medium,Medium,Medium,260,High,Medium,6,8.5,640,2560,30,160,12,None,Intolerant,15
+common barley,No,Yes,Yes,None,High,No,Low,Medium,None,200,None,Medium,6.5,8.5,,,5,24,12,High,Intolerant,12
+stinkingtoe,Yes,No,No,Low,Medium,No,Low,Medium,,365,Low,,5.5,7.5,320,640,35,90,36,None,Tolerant,40
+peelbark St. Johnswort,Yes,No,No,Low,,No,High,,,20,,,5,,320,1280,33,70,12,,Intolerant,4
+sacky sac bean,Yes,Yes,No,,,No,,Medium,,365,Low,,6,8.5,320,640,40,80,36,,Tolerant,40
+river koko,Yes,No,No,,Medium,No,Low,Medium,Medium,365,Low,Medium,6,8.5,320,640,39,80,36,,,40
+butternut,Yes,Yes,No,None,None,Yes,Low,Medium,Low,105,Low,Medium,6,7,100,800,25,80,40,None,Intolerant,-33
+little walnut,Yes,Yes,Yes,None,Low,Yes,Medium,Low,None,180,Medium,Medium,5.5,6.9,100,800,17,32,24,None,Intolerant,-3
+black walnut,No,Yes,No,None,High,No,Low,High,High,170,None,High,4.6,8.2,100,800,30,60,40,None,Intolerant,-28
+English walnut,No,Yes,Yes,None,Medium,Yes,Medium,Medium,Low,190,Low,High,6,7.5,100,800,28,45,40,None,Intolerant,-8
+oneseed juniper,Yes,Yes,Yes,None,High,No,High,Low,None,180,High,Low,7,8.5,100,800,8,26,12,None,Intolerant,-13
+hyacinthbean,Yes,Yes,Yes,Low,Medium,No,High,Medium,Medium,300,None,Medium,4.5,7.8,2500,40000,24,98,12,Medium,Intermediate,31
+white mangrove,Yes,Yes,Yes,Medium,Medium,No,Low,Low,Low,365,Low,High,6,8.5,320,640,41,92,36,High,Intolerant,40
+white leadtree,Yes,Yes,Yes,Low,Medium,No,High,Medium,None,365,High,Low,5,8.7,700,1200,15,80,4,Medium,Intolerant,25
+Spanish thyme,Yes,Yes,No,,,No,Low,,,365,Low,,6.1,7.8,320,1280,29,80,12,,Intolerant,40
+Canby's biscuitroot,Yes,Yes,No,None,Medium,No,High,Low,Medium,110,None,Low,6,8.5,1700,4800,8,16,10,Low,Intolerant,-28
+cous biscuitroot,Yes,Yes,No,None,Medium,No,High,Low,Medium,105,None,Low,6,8.5,1700,4800,8,16,10,Low,Intolerant,-28
+bigseed biscuitroot,Yes,Yes,No,None,Medium,No,High,Low,Medium,105,None,Low,6,8.5,1700,4800,8,16,10,Low,Intolerant,-28
+nineleaf biscuitroot,Yes,Yes,No,None,Medium,Yes,Low,Low,Medium,120,None,Medium,6.5,8.8,,,8,20,20,Low,Intermediate,-33
+arctic lupine,Yes,No,No,None,Low,Yes,Low,,,120,Low,,5,7.5,2560,10240,10,100,12,None,Intermediate,-62
+pale desert-thorn,Yes,Yes,No,None,High,No,High,Low,Low,140,High,Medium,7,8.5,50,600,10,15,12,Low,Intolerant,-13
+Japanese flowering crab apple,No,Yes,Yes,None,Medium,Yes,Medium,Medium,High,130,Medium,Medium,5,7.8,300,1200,32,60,30,None,Intolerant,-43
+Oregon crab apple,Yes,Yes,No,Low,Low,No,Low,,Low,207,,,6,8,640,1280,33,120,24,Low,Intermediate,27
+European crab apple,Yes,Yes,No,None,Low,Yes,Medium,Medium,Low,150,Low,Medium,4.8,7,170,600,30,50,36,None,Intolerant,-28
+mammee apple,Yes,Yes,Yes,None,Medium,No,High,Medium,,365,Low,,4,8.5,320,640,50,100,36,Medium,Intolerant,40
+bulletwood,No,Yes,Yes,None,None,No,Low,Medium,None,365,None,Medium,4.6,5.8,300,700,55,71,32,None,Tolerant,52
+burclover,No,Yes,Yes,None,None,Yes,None,Medium,None,100,None,Medium,5.9,8.2,,,12,75,12,None,Intolerant,32
+alfalfa,No,Yes,Yes,None,High,No,High,High,High,90,None,High,6,8.5,,,12,65,24,Medium,Intolerant,-43
+nodding microseris,No,Yes,No,Low,Low,No,Medium,Low,Low,120,None,Medium,6,7.2,2700,4800,16,60,10,None,Tolerant,-28
+Colorado four o'clock,Yes,Yes,No,None,Medium,No,High,Low,Low,130,None,Low,6.5,8.5,2700,4800,8,18,12,Low,Intolerant,-18
+red mulberry,Yes,Yes,Yes,Medium,Medium,Yes,Medium,Low,Low,140,Low,Medium,5,7,170,600,35,60,24,None,Tolerant,-33
+nodding waternymph,Yes,Yes,Yes,High,Medium,Yes,None,Medium,High,,None,High,6.5,7.5,700,1200,,,,Medium,Intermediate,47
+American lotus,Yes,Yes,Yes,High,Medium,No,None,Medium,None,130,None,High,4.6,8.7,302,1746,,,12,None,Intolerant,-36
+sacahuista,Yes,No,No,None,High,No,High,Low,Medium,280,None,Low,6.5,9.5,1700,3400,7,14,20,Low,Intolerant,14
+tanoak,,,,,,,,,,,,,,,,,,,,,,
+Rocky Mountain pond-lily,Yes,Yes,Yes,Medium,Medium,Yes,Low,Medium,Low,120,Low,High,5,8,320,1280,10,40,12,None,Intolerant,-62
+Ogeechee tupelo,Yes,Yes,Yes,High,Low,Yes,Low,Medium,Medium,270,None,High,4.5,6.5,400,800,45,60,24,None,Intolerant,-8
+Indian plum,No,No,No,Medium,,Yes,Low,,,207,,,5,7.2,1280,2560,16,33,,Low,Intermediate,28
+desert ironwood,Yes,Yes,Yes,None,High,No,High,Low,None,365,Medium,Low,6.8,8.6,170,300,3,20,12,Low,Intolerant,22
+erect pricklypear,,,,,,,,,,,,,,,,,,,,,,
+Barbary fig,Yes,Yes,Yes,None,High,Yes,High,Low,None,200,High,Low,7,8.5,20,700,8,15,6,Low,Intolerant,-3
+plains pricklypear,Yes,Yes,Yes,None,High,No,High,Low,None,200,None,Low,7,8.8,170,300,10,20,12,None,Intolerant,-28
+royal fern,Yes,Yes,Yes,Medium,Low,No,Low,High,Low,110,Low,High,4,6,700,1700,32,55,16,None,Tolerant,-38
+Tahitian screwpine,Yes,No,No,Medium,,Yes,,High,Medium,365,Low,,6,7.5,320,640,8,320,36,Medium,Intermediate,40
+Gardner's yampah,No,Yes,Yes,Low,Low,No,Low,Medium,Medium,140,None,High,6,7.5,,,14,24,12,None,Tolerant,-18
+Parish's yampah,No,Yes,Yes,Low,Low,No,Low,Medium,Medium,100,None,High,6,7.5,,,12,30,10,Low,Tolerant,-33
+redbay,No,Yes,Yes,High,None,No,Low,Medium,None,200,High,High,5,6.7,200,1200,40,80,24,None,Tolerant,7
+American pokeweed,Yes,Yes,Yes,Low,High,No,Medium,Medium,High,100,None,Medium,4.7,8,,,30,65,16,None,Tolerant,-33
+Mexican pinyon,Yes,Yes,Yes,None,High,Yes,High,Low,Low,90,Medium,Low,7,8.5,170,170,10,20,12,Low,Intolerant,-33
+twoneedle pinyon,Yes,Yes,Yes,None,Low,Yes,High,Medium,Low,200,None,Low,6.5,8.5,170,600,9,27,20,Medium,Intolerant,-31
+limber pine,No,Yes,No,None,Medium,Yes,High,Low,Low,90,None,Low,5.7,6.5,430,1200,20,70,20,None,Intolerant,-43
+sugar pine,Yes,Yes,No,None,None,Yes,Medium,Low,Low,150,Low,Medium,5.6,8,430,1200,25,90,40,None,Intermediate,-28
+singleleaf pinyon,Yes,Yes,No,None,High,Yes,High,Low,Low,150,Low,Low,6.2,7.5,170,600,11,20,40,None,Intolerant,-23
+California foothill pine,Yes,Yes,No,None,Medium,Yes,High,Low,Low,230,Low,Low,6,8.3,430,1200,14,24,40,None,Intolerant,12
+honey mesquite,Yes,Yes,Yes,Low,High,No,High,Low,High,250,High,Low,7,8.5,10,170,5,12,12,Low,Intolerant,-13
+screwbean mesquite,Yes,Yes,Yes,None,Medium,No,Medium,Low,Medium,200,High,Medium,7.5,9,50,1200,6,15,24,High,Intermediate,-3
+common selfheal,Yes,Yes,Yes,None,Medium,No,Medium,Medium,Medium,115,None,Medium,5.4,8,,,16,55,10,None,Intermediate,-38
+American plum,Yes,Yes,No,Medium,High,Yes,None,Medium,Medium,100,Low,Medium,5,7,700,1200,16,40,24,Low,Intolerant,-38
+Chickasaw plum,Yes,Yes,No,None,High,Yes,None,Medium,Medium,165,Low,Medium,5,7.5,700,1200,18,45,24,Low,Intolerant,-28
+European dwarf cherry,Yes,Yes,No,None,Medium,Yes,Medium,Medium,Low,100,Medium,Medium,6,7.5,680,1200,20,45,24,Low,Intolerant,-38
+hollyleaf cherry,Yes,Yes,Yes,Low,Medium,No,High,Low,Low,365,High,Medium,7,8,40,400,15,40,12,None,Intolerant,32
+beach plum,Yes,Yes,No,Medium,Medium,Yes,High,Low,Low,150,Low,Medium,5.8,7.7,700,2200,36,60,20,Low,Intolerant,-33
+Canadian plum,No,Yes,Yes,Low,Low,No,None,,None,128,,,6.5,8.5,640,1280,15,43,36,None,Intolerant,24
+pin cherry,Yes,Yes,Yes,Low,None,Yes,Low,Low,High,90,None,Medium,4.3,7.3,300,800,16,80,20,None,Intolerant,-38
+sandcherry,Yes,Yes,No,None,High,Yes,Medium,Low,Low,125,Low,Low,5.9,7,1200,4800,15,50,24,None,Tolerant,-33
+western sandcherry,Yes,Yes,No,None,High,Yes,Low,Medium,Medium,100,Low,Medium,5.3,7.5,4800,11000,12,24,20,Low,Intolerant,-38
+black cherry,Yes,Yes,No,None,High,Yes,Medium,Medium,Low,120,None,Medium,4,7.5,300,800,21,50,36,Medium,Intolerant,-33
+black cherry,Yes,Yes,Yes,Low,High,Yes,High,Low,High,160,High,Medium,7,8.5,300,800,9,35,12,Medium,Intermediate,-23
+Klamath plum,Yes,Yes,No,None,Medium,Yes,Medium,Low,High,250,High,Low,6.5,7.5,200,2500,17,100,12,None,Intolerant,-28
+dwarf Russian almond,Yes,Yes,Yes,None,Low,Yes,High,Medium,High,90,Low,Medium,5,7.5,1700,2700,15,50,14,None,Intolerant,-38
+Nanking cherry,Yes,Yes,No,None,Medium,Yes,Medium,Medium,Low,100,Medium,Medium,5.7,7.2,680,1200,24,40,20,Low,Intolerant,-38
+chokecherry,Yes,Yes,Yes,Medium,High,Yes,Medium,Medium,High,120,Low,Medium,5.2,8.4,682,2728,13,65,20,Medium,Intolerant,-43
+guava,Yes,Yes,Yes,Low,Medium,No,Medium,Medium,Medium,365,Medium,Medium,5.5,7,100,400,40,150,36,Medium,Intermediate,33
+pomegranate,No,Yes,Yes,None,None,No,None,Medium,Low,140,High,Medium,6,6.9,170,300,30,60,20,Low,Intermediate,-13
+common pear,No,Yes,Yes,None,Low,Yes,Low,High,Low,175,Low,Medium,5.2,6.7,300,1200,35,55,30,Low,Intolerant,-18
+blue oak,Yes,Yes,No,None,None,No,High,Low,Low,150,None,Low,4.5,7.5,300,405,10,60,32,None,Intolerant,10
+Oregon white oak,Yes,Yes,Yes,Low,None,Yes,High,Low,Low,63,None,Low,4.8,6.7,300,800,10,104,42,None,Intolerant,-33
+California black oak,Yes,Yes,No,None,Low,Yes,Medium,Low,Low,90,None,Medium,5.5,7.5,300,800,12,100,36,None,Intolerant,-3
+redberry buckthorn,Yes,Yes,No,None,High,Yes,High,Low,None,280,Medium,Low,6.5,8.5,1200,2700,12,25,16,None,Intolerant,22
+littleleaf sumac,Yes,Yes,No,None,High,No,High,Low,High,150,High,Low,7,8.5,10,70,8,26,12,Low,Intolerant,-13
+American black currant,Yes,Yes,Yes,Low,,No,High,,Low,128,,,5,7.8,1280,5120,12,60,12,,,-46
+golden currant,No,Yes,No,None,High,Yes,Medium,High,Medium,150,High,Low,6,8,700,1700,12,20,20,None,Intermediate,-38
+golden currant,Yes,Yes,Yes,Low,,No,Medium,,Low,128,,,4.7,7.8,1280,5120,12,60,12,,,-46
+wax currant,Yes,Yes,No,None,High,Yes,High,Low,High,300,High,Low,6.5,7.5,300,1800,13,35,12,None,Intolerant,-23
+Crater Lake currant,Yes,Yes,No,None,Low,Yes,High,High,Medium,170,None,High,5.8,7,1200,1700,24,60,16,None,Intermediate,-18
+northern black currant,Yes,Yes,No,Medium,Low,Yes,Medium,High,High,90,None,High,5,6.9,1200,1700,28,50,14,None,Intermediate,-33
+prickly currant,No,No,No,Low,,No,Low,,Medium,120,Medium,,5,7.8,1280,5120,8,120,12,None,Tolerant,-62
+gooseberry currant,Yes,Yes,No,None,Medium,Yes,High,Medium,Medium,120,High,Medium,7,8,600,1200,10,35,12,None,Intermediate,-3
+Sierra currant,Yes,Yes,No,Medium,Medium,Yes,Low,Low,Medium,160,Low,High,6,7.5,700,1700,12,24,14,None,Intermediate,-28
+Sierra gooseberry,Yes,Yes,No,None,Medium,Yes,High,Medium,Medium,160,Medium,Low,6,7.5,700,1700,12,24,16,None,Intermediate,-28
+redflower currant,Yes,Yes,No,None,Medium,Yes,Medium,Medium,Medium,185,High,Medium,6,7.5,700,1700,14,30,16,None,Intermediate,7
+red currant,Yes,Yes,No,None,Medium,Yes,Low,Medium,,115,Low,Medium,5,7.5,1280,5120,9,60,12,None,Tolerant,-62
+island gooseberry,Yes,Yes,Yes,None,Low,No,High,Low,High,190,None,Low,5,7.5,1200,2700,18,40,12,None,Tolerant,-3
+prickly rose,No,Yes,Yes,None,Low,Yes,Low,Low,High,200,High,High,6.8,7.5,2000,5000,15,60,6,None,Tolerant,-38
+California wildrose,Yes,Yes,Yes,None,None,Yes,Medium,Low,High,270,High,High,7,8,1200,3000,11,40,6,None,Intermediate,7
+Nootka rose,No,Yes,Yes,Low,Low,Yes,Low,Low,High,270,High,High,6.5,7,2000,5000,55,125,6,Low,Tolerant,7
+cluster rose,Yes,Yes,Yes,Medium,,No,Medium,,,77,,,5,7.3,1280,5120,15,104,12,None,Intolerant,-24
+rosemary,Yes,Yes,No,None,Medium,No,High,Low,Medium,200,Medium,Low,5,7.5,2700,4850,14,45,14,Medium,Intolerant,-3
+Allegheny blackberry,No,Yes,Yes,Low,High,Yes,High,Medium,High,120,None,Medium,4.6,7.5,1200,4800,30,48,12,None,Tolerant,-28
+oldfield blackberry,Yes,Yes,Yes,None,Medium,Yes,Medium,Medium,High,140,None,Medium,4.8,7,1700,2700,32,50,8,None,Intermediate,-28
+arctic raspberry,Yes,No,No,Medium,High,Yes,Low,Medium,Low,120,None,,5,7,320,1280,10,79,12,None,Intolerant,-62
+Bailey's dewberry,Yes,Yes,Yes,Low,Medium,Yes,Medium,Medium,High,130,None,High,5,7,1700,2700,32,50,8,None,Intermediate,-28
+sand blackberry,Yes,Yes,No,None,Medium,Yes,Low,Medium,High,200,None,Medium,5,7,1700,2700,36,50,10,None,Intermediate,-13
+northern dewberry,Yes,Yes,Yes,None,Low,Yes,Low,Low,High,180,High,High,5,7,2700,3450,15,40,6,None,Intermediate,-23
+American red raspberry,No,No,No,,,Yes,High,Medium,Medium,88,Low,,5,7.5,320,1280,10,104,12,None,Tolerant,-62
+grayleaf red raspberry,Yes,Yes,No,Low,,No,Medium,,Low,88,,,5,7.5,1280,5120,10,104,12,None,Intolerant,-62
+cutleaf blackberry,No,Yes,Yes,Low,High,Yes,Low,Medium,High,150,None,Medium,5.2,7.7,1200,4800,32,45,12,None,Tolerant,-33
+whitebark raspberry,Yes,Yes,Yes,Low,Medium,Yes,Low,Medium,High,120,High,Medium,5.6,7.3,1200,4800,24,60,12,None,Intolerant,7
+black raspberry,No,Yes,Yes,Low,High,Yes,Medium,Medium,High,129,None,Medium,5.2,7.5,1200,4800,24,45,12,None,Intermediate,-28
+thimbleberry,No,Yes,Yes,Low,High,Yes,Medium,Medium,High,100,None,High,4.8,7.2,1200,4800,20,45,12,None,Intermediate,-28
+salmonberry,No,Yes,Yes,Medium,Medium,No,High,Low,High,200,None,Medium,5.7,7.2,1700,2700,14,24,10,None,Intermediate,-33
+arctic dock,Yes,No,No,Low,Low,Yes,None,Medium,None,120,None,,5,7.8,5120,20000,10,79,12,Low,Intolerant,-62
+cabbage palmetto,Yes,Yes,Yes,Low,Medium,No,Low,Low,Low,180,None,Medium,5.1,7.8,300,1200,30,70,18,Medium,Tolerant,16
+sandbar willow,No,No,Yes,Medium,Low,No,Low,Low,Medium,120,Low,,4,7.8,320,640,10,70,36,None,Intolerant,-62
+Pacific willow,Yes,No,Yes,High,Low,Yes,Low,Low,Medium,120,Low,,6,7,320,640,16,24,36,Low,Intolerant,-30
+tealeaf willow,No,Yes,Yes,Medium,,Yes,None,Low,Medium,47,Low,,4.4,8.5,320,1280,4,120,12,None,Intolerant,-62
+American black elderberry,No,Yes,No,Low,Medium,Yes,Medium,Medium,Medium,100,Low,Medium,5,8.9,700,1700,34,60,16,None,Intolerant,-28
+blue elderberry,Yes,Yes,No,Medium,Medium,Yes,High,Low,Medium,80,Low,Low,4.9,7.5,1746,3450,10,60,12,None,Intermediate,-38
+red elderberry,No,Yes,Yes,Low,Medium,Yes,Low,High,High,200,Low,High,5.2,7.2,300,700,24,60,24,None,Intermediate,-33
+small burnet,Yes,Yes,Yes,Low,Medium,No,Low,Low,High,90,None,Medium,6,8,,,12,25,12,Medium,Intermediate,-33
+sassafras,Yes,Yes,No,None,High,Yes,High,Low,Low,160,None,Low,4.5,7.3,300,1200,30,80,18,None,Intolerant,-27
+cereal rye,Yes,Yes,No,None,Medium,No,Medium,Medium,None,110,None,High,4.5,8.2,,,8,50,8,Medium,Intolerant,-33
+tall groundsel,Yes,Yes,Yes,High,Low,No,None,Medium,High,120,None,High,5,7.5,,,12,24,10,None,Tolerant,-28
+saw palmetto,Yes,Yes,Yes,High,None,No,High,Low,High,180,None,High,4.5,7.5,50,100,35,80,18,None,Tolerant,7
+vegetable hummingbird,Yes,Yes,Yes,Low,Medium,No,High,Low,Medium,365,Medium,Low,5.5,7,400,1600,30,60,24,Medium,Intermediate,49
+silver buffaloberry,Yes,Yes,No,None,High,Yes,Medium,Low,Medium,110,Medium,Medium,5.3,8,300,1800,15,30,24,High,Intermediate,-38
+russet buffaloberry,Yes,Yes,No,Low,High,Yes,High,Low,Medium,95,Medium,Medium,5.3,8,300,1800,15,30,24,Medium,Intermediate,-63
+salt spring checkerbloom,No,Yes,Yes,Medium,Medium,No,Low,Medium,Medium,135,None,High,6.2,7.8,,,10,28,12,None,Tolerant,-23
+buckthorn bully,Yes,No,No,Medium,Low,Yes,High,Low,Low,207,None,Low,4,7,600,2400,33,51,24,None,Tolerant,-27
+jojoba,Yes,Yes,No,None,High,No,High,Low,High,240,High,Low,7,8.5,10,1200,2,10,12,High,Intolerant,-3
+bullwood,Yes,Yes,No,Medium,Medium,Yes,,Medium,Medium,365,Low,,4.5,6,320,640,35,276,36,None,Intolerant,40
+northern mountain ash,No,No,Yes,Low,Low,Yes,Low,Medium,Medium,88,Low,Low,4,7,320,1200,16,51,36,None,Tolerant,-50
+sorghum,Yes,Yes,Yes,None,Low,No,High,High,Low,90,None,Medium,5.5,7.5,,,18,60,12,Medium,Intolerant,47
+grain sorghum,Yes,Yes,Yes,None,Low,No,High,High,Low,60,None,Medium,5.5,7.5,,,18,60,12,Medium,Intolerant,47
+Sudangrass,Yes,Yes,Yes,None,Low,No,High,High,None,90,None,Low,5.7,6.8,,,17,40,9,Medium,Intolerant,57
+yellow mombin,Yes,Yes,Yes,Medium,Medium,No,Low,Medium,,365,Low,,4.8,7.9,320,640,30,120,36,,Intolerant,30
+West Indian mahogany,Yes,Yes,No,Low,Medium,No,Medium,Medium,Medium,365,Low,,6,7,320,640,23,32,36,None,Intermediate,40
+Java plum,Yes,Yes,Yes,None,Medium,No,Medium,Medium,Medium,365,Medium,Medium,5,7,200,400,35,200,36,Low,Intermediate,49
+tamarind,No,Yes,Yes,Low,Medium,No,High,Medium,None,365,Medium,Low,4.5,8,170,300,39,80,60,Low,Intolerant,26
+common dandelion,Yes,Yes,Yes,None,Low,No,Medium,Low,,100,None,Medium,4.8,7.5,,,12,55,6,None,Intermediate,-38
+tropical almond,Yes,Yes,No,Low,High,No,Medium,Medium,Medium,365,Medium,Medium,6,7.5,100,400,20,100,33,Low,Intermediate,31
+salsify,Yes,Yes,Yes,None,High,No,Medium,Medium,Low,110,None,Medium,5.2,7.8,,,14,55,10,None,Intermediate,-28
+Jamaican nettletree,Yes,Yes,No,Low,Medium,No,Medium,Medium,,365,Low,,6,8.5,320,640,30,70,36,Low,Tolerant,40
+largeflower triteleia,No,Yes,No,Medium,Low,No,Medium,Medium,Medium,160,None,Medium,6,7.5,2700,4800,20,40,8,None,Intermediate,-33
+common wheat,Yes,Yes,Yes,None,Medium,No,Medium,Medium,None,100,None,Low,5.5,8,,,10,100,18,Medium,Tolerant,-28
+narrowleaf cattail,Yes,Yes,Yes,High,Low,No,Low,Medium,High,130,None,High,3.7,8.5,2728,3700,30,60,10,Medium,Intolerant,-33
+California laurel,Yes,Yes,Yes,None,None,No,Low,Medium,Medium,140,Medium,High,5.7,7.4,300,800,13,84,16,None,Tolerant,-13
+lowbush blueberry,Yes,Yes,Yes,Low,Low,Yes,Medium,Medium,Medium,100,None,Medium,4.7,7.5,1200,1700,32,50,16,None,Intolerant,-33
+dwarf bilberry,,,,,,,,,,,,,,,,,,,,,,
+,Yes,Yes,No,None,None,No,Low,Low,High,100,High,High,5,7,1200,19000,19,69,12,None,Tolerant,-33
+highbush blueberry,Yes,Yes,Yes,Medium,Low,No,Low,Medium,High,100,Low,Medium,4.7,7.5,1200,1700,32,50,16,High,Tolerant,-33
+Elliott's blueberry,Yes,Yes,No,None,None,Yes,Low,Medium,High,190,Low,Medium,4.5,5.6,1700,2700,36,50,12,Low,Intermediate,-3
+thinleaf huckleberry,Yes,Yes,No,Low,None,Yes,Low,Low,High,85,Low,Low,4.5,5.6,1700,2700,10,50,12,None,Intermediate,-38
+oval-leaf blueberry,No,Yes,Yes,Low,Low,Yes,Medium,Medium,Medium,100,Low,Medium,4.5,7.5,2700,4800,24,50,16,None,Intermediate,-33
+California huckleberry,Yes,Yes,No,None,Low,No,Medium,Medium,Medium,240,None,Low,5.5,7.5,1200,1700,20,45,16,None,Tolerant,7
+red huckleberry,Yes,Yes,No,None,Low,Yes,High,Low,High,120,None,Low,5,7.5,1800,11000,16,50,16,None,Tolerant,-13
+grouse whortleberry,Yes,Yes,No,None,None,Yes,Medium,Low,High,100,High,Medium,5,7,1200,19000,19,69,12,None,Tolerant,-13
+bog blueberry,No,Yes,No,None,None,Yes,Low,Low,High,90,None,Medium,4.5,5.7,2700,4800,18,45,12,None,Intermediate,-38
+lingonberry,Yes,No,No,Low,,Yes,Low,Medium,Medium,120,Low,,4.5,6,320,1280,10,276,12,Low,Intolerant,-62
+southern arrowwood,Yes,Yes,Yes,None,,No,Low,Medium,,163,Medium,,4.5,7.3,1280,2560,32,100,,None,Intermediate,-24
+squashberry,Yes,Yes,Yes,Low,,Yes,Low,Medium,Medium,120,Low,,5,7.3,320,1280,8,180,12,Low,Tolerant,-62
+American cranberrybush,Yes,Yes,Yes,Medium,Low,No,Medium,Medium,Medium,90,Medium,High,4.5,6.9,700,1100,35,55,14,None,Intermediate,-33
+garden vetch,No,Yes,Yes,Low,Low,Yes,Low,Medium,None,80,None,High,6,7,5120,20000,,,12,Low,Tolerant,
+mung bean,No,Yes,Yes,None,None,No,None,Medium,None,120,None,Medium,6,6.9,,,32,58,6,Low,Intolerant,47
+cowpea,No,Yes,Yes,None,None,No,None,Medium,None,120,None,Medium,6,8,,,13,150,6,Medium,Intolerant,47
+summer grape,Yes,Yes,No,Low,Medium,Yes,High,Medium,Low,120,None,Medium,5.3,7,170,300,30,55,16,None,Tolerant,-23
+graybark grape,Yes,Yes,No,Low,Medium,Yes,High,Medium,Low,165,None,Medium,5.4,7,170,300,32,55,16,None,Intermediate,-8
+catbird grape,Yes,Yes,No,High,Medium,Yes,Low,Medium,Low,165,None,Medium,5.5,7,170,300,32,55,16,None,Intermediate,-13
+muscadine,No,Yes,Yes,Medium,Medium,Yes,Medium,Medium,Low,170,None,Medium,6,8,170,300,35,55,16,None,Intermediate,-18
+frost grape,Yes,Yes,No,Medium,Medium,Yes,Low,Medium,Low,165,None,Medium,6,7.5,170,300,32,55,16,None,Intermediate,-23
+woolly mule-ears,Yes,Yes,No,None,Medium,No,High,Low,High,165,None,Low,6.5,8.5,,,8,16,20,None,Tolerant,-13
+aloe yucca,Yes,Yes,Yes,Low,,No,Medium,Medium,Medium,276,Low,,5,8.5,320,1280,30,75,24,Medium,Intermediate,-1
+corn,No,Yes,No,None,Medium,No,Low,High,None,90,None,High,5.5,7.5,16000,23000,20,50,8,Low,Tolerant,32
+annual wildrice,Yes,Yes,Yes,High,Low,No,None,Medium,Medium,95,None,High,6.4,7.4,,,30,50,6,Low,Intolerant,32

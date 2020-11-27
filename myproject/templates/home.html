@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+
+<form method="POST" >
+    {{ form.hidden_tag() }}
+
+
+
+
+    {{ form.Coarse.label() }}
+    {{ form.Coarse(class="browser-default custom-select") }}
+
+
+
+
+          <div>
+                    {{ form.Medium.label }}
+                    {{ form.Medium(class="browser-default custom-select") }}
+          </div>
+          <div>
+                    {{ form.Fine.label() }}
+                    {{ form.Fine(class="browser-default custom-select") }}
+          </div>
+          <div>
+                    {{ form.CaCO.label|safe }}
+                    {{ form.CaCO(class="browser-default custom-select") }}
+          </div>
+          <div>
+                    {{ form.Cold.label() }}
+                    {{ form.Cold(class="browser-default custom-select") }}
+          </div>
+            <div>
+                    {{ form.Moisture.label() }}
+                    {{ form.Moisture(class="browser-default custom-select") }}
+          </div>
+          <div>
+                    {{ form.Precipitation_min.label() }}
+                    {{ form.Precipitation_min() }}
+          </div>
+          <div>
+                    {{ form.Precipitation_max.label() }}
+                    {{ form.Precipitation_max() }}
+          </div>
+          <div>
+                    {{ form.temperature_min.label() }}
+                    {{ form.temperature_min() }}
+          </div>
+          <div>
+                    {{ form.Frost_free.label() }}
+                    {{ form.Frost_free() }}
+          </div>
+
+          <div>
+                    {{ form.pH_Min.label() }}
+                    {{ form.pH_Min() }}
+          </div>
+          <div>
+                    {{ form.pH_Max.label() }}
+                    {{ form.pH_Max() }}
+          </div>
+
+          <div>
+              {{ form.submit() }}
+
+
+
+</div>
+
+</form>
+
+</body>
+</html>
